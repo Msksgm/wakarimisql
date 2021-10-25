@@ -1,0 +1,1 @@
+insert into testtable1 values(101, 'Alpha', 20), (102,'Blavo', 25), (103, 'Charlie', 23);

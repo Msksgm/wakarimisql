@@ -1,0 +1,1 @@
+select b.*, w.author_id, a.name, w.role from books b join writings w on b.id = w.book_id join authors a on a.id = w.author_id;
